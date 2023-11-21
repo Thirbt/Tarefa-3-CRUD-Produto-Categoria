@@ -1,2 +1,2 @@
-# Tarefa-3-CRUD-Produto-Categoria
-Atividade de avaliação AC2 - CRUD (Produto &amp; Categoria)
+# Tarefa 3 - CRUD de Produto e Categoria
+Atividade de avaliação AC2.
